@@ -1,0 +1,6 @@
+let estado = require("./estado")
+let nome = require("./nome")
+let idade = require("./idade")
+console.log(estado("são paulo"))
+console.log(nome("Fálvio"))
+console.log(idade(16))
